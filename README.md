@@ -2,43 +2,17 @@
 
 ### 个人信息
 
-<style>
-	.page {
-		box-sizing: border-box;
-		width: 100%;
-		position: relative;
-	}
-	.left,.right {
-		width: 50%;
-		position: absolute;
-		padding-left: 20px;
-	}
-	.right {
-		top: 0;
-		right: -70px;
-	}
-</style>
-	
-<div class="page">
-	<div class="left">
-		<span>基本信息： 何宇航/1991/男</span><br>
-		<span">工作年限：1.5年</span><br>
-		<span">期望薪资：面议</span><br>
-		<span">手机：185-6508-2419</span><br>
-		<span>Github： <a href="http://github.com/yan7">http://github.com/yan7</a></span><br>
-		
-	</div>
-	<div class="right">
-		<span>学历：惠州学院/本科</span><br>
-		<span>期望职位 前端工程师</span><br>
-		<span>到职时间： 一周以内</span><br>
-		<span>Email：<a href="emailto:18565082419@163.com">18565082419@163.com</a></span><br>
-		
-		<span">技术博客：<a href="http://yan7.github.io">http://yan7.github.io</a></span><br>
-	</div>
-</div>
+1. 基本信息： 何宇航/1991/男
+2. 工作年限：1.5年
+3. 期望薪资：面议
+4. 手机：185-6508-2419
+5. github： [yan7](http://github.com/yan7)
+6. 学历：惠州学院/本科
+7. 期望职位 前端工程师
+8. 到职时间： 一周以内
+9. mail：<a href="emailto:18565082419@163.com">18565082419@163.com
+10. 技术博客：[航](http://yan7.github.io)
 
-<br><br><br><br><br>
 ### 技能清单
 1. 熟练掌握各种Web前端技术（HTML/CSS/JavaScript/jQuery等)；
 2. 熟练掌握Ajax前后端数据交互，掌握JSON等常用数据格式，熟悉JSONP跨域获取数据；
